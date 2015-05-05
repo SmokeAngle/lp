@@ -1,0 +1,1 @@
+dyact3.niu.xunlei.com/_lp/core/lib/GameApi.php 游戏接口类作为接口数据层， 如果业务需要对接口进行再次封装，方便调用，新增接口业务类ActApi.php ，把新增的方法放在ActApi.php里

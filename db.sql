@@ -1,10 +1,10 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : 10.10.15.10
+Source Server         :
 Source Server Version : 50142
-Source Host           : 10.10.15.10:3307
-Source Database       : niux_game_active
+Source Host           : 
+Source Database       : 
 
 Target Server Type    : MYSQL
 Target Server Version : 50142
